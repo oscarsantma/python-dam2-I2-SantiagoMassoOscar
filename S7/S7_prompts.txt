@@ -1,0 +1,20 @@
+Voy a envairte unos ejercicios de python y quiero que lo aga de manera sencilla de manera facil y para alguien que acaba de empezar.
+auxprecios.py y programa precios.py
+---------------------------------------------
+Prompt usado:
+"Quiero un módulo sencillo para analizar una lista de precios. 
+Necesito funciones muy básicas como media, máximo y mínimo sin repetir cálculos. 
+Después quiero otro archivo que use esas funciones."
+
+Manejo de errores (auxprecioserror.py y precioserror.py)
+-----------------------------------------------------------
+Prompt usado:
+"Modifica los módulos anteriores para que sean más robustos.
+Quiero usar try, except, else, finally y raise. 
+Crea casos de prueba donde haya errores pero el programa no se rompa."
+
+Investigación de módulos estándar y no estándar
+---------------------------------------------------
+Prompt usado:
+"Quiero una ficha muy sencilla de un módulo estándar y uno no estándar. 
+Debe incluir 2 funciones fáciles y un ejemplo súper básico."

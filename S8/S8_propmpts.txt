@@ -1,0 +1,8 @@
+Prompt anidados
+---------------
+voy a pasarte un ejercicio de python quiero que tengas en cuenta que quiero un codigo sencillo basico y facil de entender soy muy nuevo y no quiero cosas raras.
+Se podria hacer de manera mas sencilla?
+
+Prompt refactor
+---------------
+Te voy a pasar un codigo que funciona perfectamente pero quiero que lo mejores sin poner cosas superavanzadas quiero cosas simples
