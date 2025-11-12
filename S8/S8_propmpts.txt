@@ -6,3 +6,4 @@ Se podria hacer de manera mas sencilla?
 Prompt refactor
 ---------------
 Te voy a pasar un codigo que funciona perfectamente pero quiero que lo mejores sin poner cosas superavanzadas quiero cosas simples
+puedes hacerlo mas sencillo aunque tenga mas linea lo que quiero que se afacil de entender
