@@ -1,0 +1,10 @@
+Voy ha hacer una actividad de programación de python te voy a ir explicando para que me ayudes
+-
+Ten en cuenta que soy un principiante y no quiero nada complejo quiero cosas sencillas y fáciles de entender
+-
+Te voy a mandar el contexto de la actividad y me gusta la idea del gimnasio Elige un contexto y crea un pequeño sistema usando diccionarios: 1. Tienda → productos y precios 2. Biblioteca → libros y disponibilidad 3. Gimnasio → socios y cuotas Cada alumno debe: • Insertar, modificar y eliminar registros. • Calcular al menos una métrica (media, suma, máximos...). • Usar un bucle for para recorrer las claves y valores. • Realizar una adaptación personalizada
+-
+Mandemelo todo junto. Pero acuerdate de todo lo que te he mencionado.
+-
+El menu me gusta, se puede hacer de una manera mas sencilla.
+-

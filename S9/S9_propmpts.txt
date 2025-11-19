@@ -1,0 +1,17 @@
+Primer prompt:
+Tengo que hacer un ejercicio de python te lo voy a pasar, pero quiero que sea facil como para alguien que acaba de empezar. 
+Aunque tenga algunas lineas mas de codigo me da igual quiero que sea simple y sencillo.(Le pongo el enunciado del ejercicio)
+
+Segundo prompt:
+Quiero que me quites las cosas inecesarias como por ejemplo la ultima linea lo del main.
+
+Tercer prompt:
+(Le enseño la parte del menu)Y como se que numero es cada tarea? tendria que mostrar las tareas apra saber que numero pner en completadas no?
+
+Cuarto prompt:
+De la funcion agregar_tarea no me gusta que me lo juntes quiero que me lo pongas para que se pueda explicar como un principiante. Me da igual que pongas mas lineas de codigo.
+
+Quinto prompt:
+El uso de random lo veo inecesario, quitalo del codigo.
+
+(Entre todos estos prompt le voy recordando el codigo para que no se le olvide)
